@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/BinoyBabu10/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/BinoyBabu10/LeetCode/tree/master/0049-group-anagrams) |
 | [0724-find-pivot-index](https://github.com/BinoyBabu10/LeetCode/tree/master/0724-find-pivot-index) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/BinoyBabu10/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 ## String
 |  |
 | ------- |
@@ -81,4 +82,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/BinoyBabu10/LeetCode/tree/master/0724-find-pivot-index) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/BinoyBabu10/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 <!---LeetCode Topics End-->
