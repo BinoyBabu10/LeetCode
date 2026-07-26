@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/BinoyBabu10/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/BinoyBabu10/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/BinoyBabu10/LeetCode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/BinoyBabu10/LeetCode/tree/master/0058-length-of-last-word) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/BinoyBabu10/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 ## Trie
 |  |
