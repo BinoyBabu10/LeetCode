@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/BinoyBabu10/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/BinoyBabu10/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/BinoyBabu10/LeetCode/tree/master/0049-group-anagrams) |
+| [0189-rotate-array](https://github.com/BinoyBabu10/LeetCode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/BinoyBabu10/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/BinoyBabu10/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0594-longest-harmonious-subsequence](https://github.com/BinoyBabu10/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/BinoyBabu10/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/BinoyBabu10/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/BinoyBabu10/LeetCode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/BinoyBabu10/LeetCode/tree/master/0189-rotate-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/BinoyBabu10/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Two Pointers
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BinoyBabu10/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/BinoyBabu10/LeetCode/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/BinoyBabu10/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/BinoyBabu10/LeetCode/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/BinoyBabu10/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
