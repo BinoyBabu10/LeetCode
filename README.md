@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/BinoyBabu10/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/BinoyBabu10/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/BinoyBabu10/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/BinoyBabu10/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/BinoyBabu10/LeetCode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/BinoyBabu10/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/BinoyBabu10/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/BinoyBabu10/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/BinoyBabu10/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/BinoyBabu10/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/BinoyBabu10/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/BinoyBabu10/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/BinoyBabu10/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 ## Sorting
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/BinoyBabu10/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/BinoyBabu10/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/BinoyBabu10/LeetCode/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/BinoyBabu10/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BinoyBabu10/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Math
@@ -163,9 +166,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/BinoyBabu10/LeetCode/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/BinoyBabu10/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/BinoyBabu10/LeetCode/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/BinoyBabu10/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
