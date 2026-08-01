@@ -7,10 +7,9 @@ class Solution {
             count++;
             max=Math.max(max,count);
         }
-        if(nums[i]!=1){
+        else{
             count=0;
         }
-
        }
        return max;
     }
