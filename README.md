@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/BinoyBabu10/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/BinoyBabu10/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/BinoyBabu10/LeetCode/tree/master/0724-find-pivot-index) |
+| [0922-sort-array-by-parity-ii](https://github.com/BinoyBabu10/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/BinoyBabu10/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/BinoyBabu10/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/BinoyBabu10/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/BinoyBabu10/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/BinoyBabu10/LeetCode/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/BinoyBabu10/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0922-sort-array-by-parity-ii](https://github.com/BinoyBabu10/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BinoyBabu10/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Math
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/BinoyBabu10/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/BinoyBabu10/LeetCode/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/BinoyBabu10/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [0922-sort-array-by-parity-ii](https://github.com/BinoyBabu10/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/BinoyBabu10/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
