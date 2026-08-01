@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/BinoyBabu10/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/BinoyBabu10/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/BinoyBabu10/LeetCode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/BinoyBabu10/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/BinoyBabu10/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/BinoyBabu10/LeetCode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/BinoyBabu10/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/BinoyBabu10/LeetCode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/BinoyBabu10/LeetCode/tree/master/0075-sort-colors) |
 | [0594-longest-harmonious-subsequence](https://github.com/BinoyBabu10/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BinoyBabu10/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Math
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/BinoyBabu10/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BinoyBabu10/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/BinoyBabu10/LeetCode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/BinoyBabu10/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/BinoyBabu10/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/BinoyBabu10/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/BinoyBabu10/LeetCode/tree/master/0283-move-zeroes) |
