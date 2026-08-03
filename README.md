@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/BinoyBabu10/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BinoyBabu10/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/BinoyBabu10/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2460-apply-operations-to-an-array](https://github.com/BinoyBabu10/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 ## String
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/BinoyBabu10/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/BinoyBabu10/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/BinoyBabu10/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2460-apply-operations-to-an-array](https://github.com/BinoyBabu10/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/BinoyBabu10/LeetCode/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/BinoyBabu10/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2460-apply-operations-to-an-array](https://github.com/BinoyBabu10/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 ## Union-Find
 |  |
 | ------- |
