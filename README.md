@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/BinoyBabu10/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/BinoyBabu10/LeetCode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/BinoyBabu10/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/BinoyBabu10/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/BinoyBabu10/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/BinoyBabu10/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/BinoyBabu10/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/BinoyBabu10/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/BinoyBabu10/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/BinoyBabu10/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/BinoyBabu10/LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/BinoyBabu10/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/BinoyBabu10/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 ## Sorting
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/BinoyBabu10/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/BinoyBabu10/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/BinoyBabu10/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/BinoyBabu10/LeetCode/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/BinoyBabu10/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0922-sort-array-by-parity-ii](https://github.com/BinoyBabu10/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BinoyBabu10/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/BinoyBabu10/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/BinoyBabu10/LeetCode/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/BinoyBabu10/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 ## Bit Manipulation
 |  |
@@ -223,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/BinoyBabu10/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/BinoyBabu10/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/BinoyBabu10/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/BinoyBabu10/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
