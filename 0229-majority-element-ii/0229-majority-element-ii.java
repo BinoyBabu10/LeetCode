@@ -24,17 +24,6 @@ class Solution {
             }
             
         }
-        count1 = 0;
-        count2 = 0;
-
-        for (int num : nums) {
-            if (num == el1) {
-                count1++;
-            }
-            else if (num == el2) {
-                count2++;
-            }
-        }
 
         // Step 2: Verify the candidates
         count1 = 0;
