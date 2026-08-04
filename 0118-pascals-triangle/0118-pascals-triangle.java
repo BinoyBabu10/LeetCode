@@ -1,20 +1,21 @@
 class Solution {
     public List<List<Integer>> generate(int numRows) {
         List<List<Integer>>ans=new ArrayList<>();
-        for(int row=1;row<=numRows;row++){
-            ans.add(generateRow(row));
+        for(int i=1;i<=numRows;i++){
+            ans.add(triangle(i));
         }
         return ans;
     }
-    public List<Integer>generateRow(int row){
+    public List<Integer>triangle(int num){
         List<Integer>temp=new ArrayList<>();
         long res=1;
         temp.add(1);
-        for(int col=1;col<row;col++){
-            res=res*(row-col);
-            res=res/col;
-            temp.add((int) res);
+        for(int i=1;i<num;i++){
+            res=res*(num-i);
+            res=res/i;
+            temp.add((int)res);
         }
         return temp;
     }
+    
 }
