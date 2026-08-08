@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/BinoyBabu10/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/BinoyBabu10/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/BinoyBabu10/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/BinoyBabu10/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/BinoyBabu10/LeetCode/tree/master/0724-find-pivot-index) |
 | [0922-sort-array-by-parity-ii](https://github.com/BinoyBabu10/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/BinoyBabu10/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/BinoyBabu10/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/BinoyBabu10/LeetCode/tree/master/0069-sqrtx) |
 | [0493-reverse-pairs](https://github.com/BinoyBabu10/LeetCode/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/BinoyBabu10/LeetCode/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
 | ------- |
