@@ -9,16 +9,16 @@ class Solution {
                 matrix[j][i]=temp;
             }
         }
-
         //reverse
         for(int i=0;i<n;i++){
-            int left=0,right=n-1;
-            while(left<right){
-                int temp=matrix[i][left];
-                matrix[i][left]=matrix[i][right];
-                matrix[i][right]=temp;
-                left++;
-                right--;
+            int l=0;
+            int r=n-1;
+            while(l<r){
+                int temp=matrix[i][l];
+                matrix[i][l]=matrix[i][r];
+                matrix[i][r]=temp;
+                l++;
+                r--;
             }
         }
     }
