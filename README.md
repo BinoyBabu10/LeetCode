@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/BinoyBabu10/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/BinoyBabu10/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/BinoyBabu10/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/BinoyBabu10/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/BinoyBabu10/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1652-defuse-the-bomb](https://github.com/BinoyBabu10/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1732-find-the-highest-altitude](https://github.com/BinoyBabu10/LeetCode/tree/master/1732-find-the-highest-altitude) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/BinoyBabu10/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/BinoyBabu10/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/BinoyBabu10/LeetCode/tree/master/0704-binary-search) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/BinoyBabu10/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/BinoyBabu10/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum
 |  |
