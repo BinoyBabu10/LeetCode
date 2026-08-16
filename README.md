@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/BinoyBabu10/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/BinoyBabu10/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/BinoyBabu10/LeetCode/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/BinoyBabu10/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/BinoyBabu10/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/BinoyBabu10/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/BinoyBabu10/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/BinoyBabu10/LeetCode/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/BinoyBabu10/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Stack
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/BinoyBabu10/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BinoyBabu10/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/BinoyBabu10/LeetCode/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/BinoyBabu10/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/BinoyBabu10/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/BinoyBabu10/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/BinoyBabu10/LeetCode/tree/master/0704-binary-search) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/BinoyBabu10/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/BinoyBabu10/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/BinoyBabu10/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/BinoyBabu10/LeetCode/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/BinoyBabu10/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -252,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/BinoyBabu10/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BinoyBabu10/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/BinoyBabu10/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/BinoyBabu10/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Simulation
 |  |
 | ------- |
