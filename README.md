@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/BinoyBabu10/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/BinoyBabu10/LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/BinoyBabu10/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/BinoyBabu10/LeetCode/tree/master/0205-isomorphic-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/BinoyBabu10/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/BinoyBabu10/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/BinoyBabu10/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/BinoyBabu10/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/BinoyBabu10/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/BinoyBabu10/LeetCode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/BinoyBabu10/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/BinoyBabu10/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/BinoyBabu10/LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/BinoyBabu10/LeetCode/tree/master/0560-subarray-sum-equals-k) |
