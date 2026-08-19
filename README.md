@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/BinoyBabu10/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/BinoyBabu10/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/BinoyBabu10/LeetCode/tree/master/0058-length-of-last-word) |
+| [1021-remove-outermost-parentheses](https://github.com/BinoyBabu10/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/BinoyBabu10/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 ## Trie
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/BinoyBabu10/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/BinoyBabu10/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/BinoyBabu10/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/BinoyBabu10/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Linked List
 |  |
 | ------- |
@@ -314,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/BinoyBabu10/LeetCode/tree/master/0493-reverse-pairs) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/BinoyBabu10/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
