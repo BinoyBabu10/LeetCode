@@ -1,22 +1,22 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
         List<Integer>ans=new ArrayList<>();
-        int count1=0,count2=0;
+        int count1=0;
+        int count2=0;
         int el1=0,el2=0;
-        for(int num:nums){
-            if(count1==0 && num!=el2){
+        for(int n:nums){
+            if(count1==0 && n!=el2){
                 count1=1;
-                el1=num;
+                el1=n;
             }
-            else if(count2==0 && num!=el1){
+            else if(count2==0 && n!=el1){
                 count2=1;
-                el2=num;
+                el2=n;
             }
-            else if(el1==num){
+            else if(el1==n){
                 count1++;
-
             }
-            else if(el2==num){
+            else if(el2==n){
                 count2++;
             }
             else{
@@ -26,15 +26,14 @@ class Solution {
         }
         count1=0;
         count2=0;
-        for(int num:nums){
-            if(num==el1){
+        for(int n:nums){
+            if(n==el1){
                 count1++;
             }
-            else if(num==el2){
+            else if(n==el2){
                 count2++;
             }
         }
-
         if(count1>nums.length/3){
             ans.add(el1);
         }
