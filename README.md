@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/BinoyBabu10/LeetCode/tree/master/0189-rotate-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/BinoyBabu10/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/BinoyBabu10/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/BinoyBabu10/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
 |  |
 | ------- |
