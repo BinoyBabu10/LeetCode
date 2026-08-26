@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/BinoyBabu10/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/BinoyBabu10/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/BinoyBabu10/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/BinoyBabu10/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/BinoyBabu10/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/BinoyBabu10/LeetCode/tree/master/0189-rotate-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/BinoyBabu10/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/BinoyBabu10/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/BinoyBabu10/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/BinoyBabu10/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/BinoyBabu10/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/BinoyBabu10/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/BinoyBabu10/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Tree
