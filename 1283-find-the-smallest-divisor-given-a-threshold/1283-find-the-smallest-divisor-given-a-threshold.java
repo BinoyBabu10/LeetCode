@@ -6,7 +6,7 @@ class Solution {
             high=Math.max(high,n);
         }
         while(low<high){
-            int mid=low+(high-low)/2;
+            int mid=(low+high)/2;
             if(divide(nums,threshold,mid)){
                 high=mid;
             }
@@ -20,10 +20,8 @@ class Solution {
         int sum=0;
         for(int n:nums){
             sum+=(n+d-1)/d;
-            if(sum>t){
-                return false;
-            }
         }
-        return true;
+        return sum<=t;
     }
+    
 }
