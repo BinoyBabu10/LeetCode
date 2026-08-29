@@ -7,8 +7,8 @@ class Solution {
             max=Math.max(max,n);
         }
         while(max<sum){
-            int mid=max+(sum-max)/2;
-            if(cap(weights,mid,days)){
+            int mid=(max+sum)/2;
+            if(canship(weights,days,mid)){
                 sum=mid;
             }
             else{
@@ -17,18 +17,19 @@ class Solution {
         }
         return max;
     }
-    public boolean cap(int[] cap,int mid,int d){
-        int days=1;
+    public boolean canship(int[] n,int day,int d){
         int load=0;
-        for(int n:cap){
-            if((load+n)>mid){
-                days=days+1;
-                load=n;
+        int p=1;
+        for(int nums:n){
+            if((load+nums)>d){
+                p=p+1;
+                load=nums;
             }
             else{
-                load+=n;
+                load+=nums;
             }
         }
-        return days<=d;
+        return p<=day;
     }
+   
 }
