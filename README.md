@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/BinoyBabu10/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/BinoyBabu10/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/BinoyBabu10/LeetCode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/BinoyBabu10/LeetCode/tree/master/0231-power-of-two) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/BinoyBabu10/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/BinoyBabu10/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/BinoyBabu10/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/BinoyBabu10/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/BinoyBabu10/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/BinoyBabu10/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/BinoyBabu10/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/BinoyBabu10/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/BinoyBabu10/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/BinoyBabu10/LeetCode/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
