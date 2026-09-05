@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/BinoyBabu10/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/BinoyBabu10/LeetCode/tree/master/0075-sort-colors) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -397,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/BinoyBabu10/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/BinoyBabu10/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
