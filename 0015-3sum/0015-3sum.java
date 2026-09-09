@@ -28,7 +28,6 @@ class Solution {
             else{
                 right--;
             }
-
         }
     }
     return ans;
