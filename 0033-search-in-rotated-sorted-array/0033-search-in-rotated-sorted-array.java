@@ -3,10 +3,10 @@ class Solution {
        int l=0;
        int r=nums.length-1;
        while(l<=r){
-        int mid=(l+r)>>1;
+        int mid= (l+r)>>1;
         if(nums[mid]==target){
-                return mid;
-            }
+            return mid;
+        }
         if(nums[l]<=nums[mid]){
             if(nums[l]<=target && nums[mid]>target){
                 r=mid-1;
@@ -16,7 +16,7 @@ class Solution {
             }
         }
         else{
-            if(nums[mid]<target && target<=nums[r]){
+            if(nums[mid]<target && nums[r]>=target){
                 l=mid+1;
             }
             else{
