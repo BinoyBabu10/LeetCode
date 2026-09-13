@@ -5,13 +5,13 @@ class Solution {
             }
             int low=Integer.MAX_VALUE;
             int high=Integer.MIN_VALUE;
-            for(int bloom:bloomDay){
-                low=Math.min(low,bloom);
-                high=Math.max(high,bloom);
+            for(int n:bloomDay){
+                low=Math.min(low,n);
+                high=Math.max(high,n);
             }
             while(low<high){
-                int mid=(low+high)/2;
-                if(canbloom(bloomDay,m,k,mid)){
+                int mid=(low+high)>>1;
+                if(bloom(bloomDay,m,k,mid)){
                     high=mid;
                 }
                 else{
@@ -20,11 +20,11 @@ class Solution {
             }
         return low;
     }
-    public boolean canbloom(int[] bloom,int m,int k,int d){
+    public boolean bloom(int[] bloom,int m,int k,int d){
         int f=0;
         int b=0;
-        for(int blooms:bloom){
-            if(blooms<=d){
+        for(int n:bloom){
+            if(n<=d){
                 f++;
                 if(f==k){
                     b++;
