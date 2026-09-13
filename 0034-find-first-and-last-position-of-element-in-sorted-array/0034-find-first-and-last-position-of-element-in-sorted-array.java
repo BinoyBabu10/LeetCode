@@ -1,41 +1,40 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int first=lowerbound(nums,target);
-        int last=upperbound(nums,target)-1;
-        if(first==nums.length || nums[first]!=target){
-            return new int[]{-1,-1};
-        }
-        return new int[]{first,last};
+       int first=low(nums,target);
+       int second=high(nums,target);
+       if(first==nums.length || nums[first]!=target){
+        return new int[]{-1,-1};
+       }
+       return new int[]{first,second-1};
     }
-    public int lowerbound(int[] nums,int target){
-        int low=0;
-        int right=nums.length;
-        while(low<right){
-            int mid=low+(right-low)/2;
+    public int low(int[] nums,int target){
+        int l=0;
+        int r=nums.length;
+        while(l<r){
+            int mid=(l+r)>>1;
             if(nums[mid]>=target){
-                right=mid;
+                r=mid;
             }
             else{
-                low=mid+1;
+                l=mid+1;
             }
         }
-        return low;
+        return l;
     }
-    public int upperbound(int[] nums,int target){
-        int low=0;
-        int right=nums.length;
-        while(low<right){
-            int mid=low+(right-low)/2;
+    public int high(int[] nums,int target){
+        int l=0;
+        int r=nums.length;
+        while(l<r){
+            int mid=(l+r)>>1;
             if(nums[mid]>target){
-                right=mid;
+                r=mid;
             }
             else{
-                low=mid+1;
+                l=mid+1;
             }
         }
-        return low;
+        return l;
     }
     
-
-    
+         
 }
